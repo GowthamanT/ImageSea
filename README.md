@@ -5,4 +5,3 @@ A Google Images like website built using Pixabay API.
 HTML
 CSS
 JS
-
