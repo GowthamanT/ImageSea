@@ -3,7 +3,7 @@ body {
     overflow: auto;
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: scroll;
+    background-attachment: fixed;
  }
  .search_input{
    color: white;
